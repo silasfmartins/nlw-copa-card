@@ -10,6 +10,8 @@ body * {
 
 body {
   background: linear-gradient(150deg, #0F2B05, #000000);
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
   text-align: center;
   }
