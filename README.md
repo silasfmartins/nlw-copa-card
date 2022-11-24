@@ -7,7 +7,7 @@
 </p>
 
 ## 💻 Projeto
-Cartão que mostra as features do Programador, feito durante o NLW Copa da Rocketseat.
+Cartão que mostra as features do programador, feito durante o NLW Copa da Rocketseat.
 
 ## 🔃 Requisitos para utilizar
 
@@ -21,7 +21,7 @@ Cartão que mostra as features do Programador, feito durante o NLW Copa da Rocke
 
 ## :hammer_and_wrench: Features 
 
--   [ ] É possível mudar o tema de light para dark
+-   [ ] É apertar no cartão e mudar o mesmo.
 
 ## 🆚 Versionamento / Versioning
 
@@ -29,18 +29,18 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://silasfmartins.github.io/theme-switcher/ .
+É possível acessar a aplicação através da URL: https://silasfmartins.github.io/nlw-copa-card/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/theme-switcher/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/nlw-copa-card/blob/master/Contributing.md)
 
 ## 💿 Histórico / History
 
-Consulte [Releases](https://github.com/silasfmartins/theme-switcher/releases) para ter um changelog completo.
+Consulte [Releases](https://github.com/silasfmartins/nlw-copa-card/releases) para ter um changelog completo.
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/theme-switcher/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/nlw-copa-card/blob/main/LICENSE) © Silas Martins para mais detalhes.
 
 <br />
