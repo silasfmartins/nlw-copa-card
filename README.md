@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img alt="NLW Copa Card" height="80" title="Plant Manager" src="./favicon.ico" />
+  <img alt="NLW Copa Card" height="80" title="Plant Manager" src="./assets/logo.svg" />
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/theme-switcher">
+  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/nlw-copa-card">
 </p>
 
 ## 💻 Projeto
-App que muda a cor de fundo do site conforme o usuário quer (modo light e dark)
+Cartão que mostra as features do Programador, feito durante o NLW Copa da Rocketseat.
 
 ## 🔃 Requisitos para utilizar
 
