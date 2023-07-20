@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+body {
+  background: linear-gradient(150deg, #0f2b05, #000000);
+  height: 100vh;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+header {
+  padding: 4.5rem 0;
+}
+
+.card {
+  display: inline-block;
+  width: 354px;
+  height: 508px;
+  background-image: url('./assets/bg-ignite.svg');  
+  cursor: pointer;
+  margin-top: -2rem;
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #f7dd43;
+  cursor: pointer;
+  margin-top: 7rem;
+}
+
+.info {
+  margin-top: 6rem;
+  margin-left: 4rem;
+  color: white;
+  text-align: left;
+}
+
+.info h1 {
+  font-size: 1.125rem;
+  line-height: 140%;
+}
+
+.info p {
+  font-size: 0.875rem;
+  line-height: 160%;
+}
+
+:root {
+  scrollbar-color: #f7dd43 #000000 ;
+  scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  background: #000000;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: #f7dd43;
+  border-radius: 14px;
+}
