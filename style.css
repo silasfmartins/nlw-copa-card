@@ -11,6 +11,7 @@ body {
   text-align: center;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  overflow-x: hidden;
 }
 
 header {
