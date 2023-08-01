@@ -21,7 +21,8 @@ Cartão que mostra as features do programador, feito durante o NLW Copa da Rocke
 
 ## :hammer_and_wrench: Features 
 
--   [ ] É apertar no cartão e mudar o mesmo.
+-   [ ] É apertar no cartão e mudar o mesmo;
+-   [ ] Acesso em Libras.
 
 ## 🆚 Versionamento / Versioning
 
